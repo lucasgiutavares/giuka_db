@@ -1,0 +1,1 @@
+docker build -t lucasgiu/giuka_db:%1% .
